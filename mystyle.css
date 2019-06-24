@@ -1,0 +1,198 @@
+
+body {
+   height: 3000px;
+   background: linear-gradient(#21456c 0% ,#21456c 15% , white 15% ,
+    white 90%,#21456c 90%);
+  }
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #21456c;
+    text-align:center;
+    
+  }
+  
+  
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #21456c;
+  }
+
+  button {
+    display: block;  
+    background-color: #25d2e4; 
+    border: 1px solid white;
+    border-radius: 8px;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 10px 1px;
+    cursor: pointer;
+    margin-left :10px
+  }
+
+  
+.button2{
+  background-color: #21456c;
+  color: white;
+}
+
+.button3{
+  background-color: #25d2e4; 
+  padding: 15px 15px;
+  
+}
+
+  
+  .column {
+    float: left;
+    width: 50%;
+    
+  }
+  
+  .content {
+    max-width: 1480px;
+    margin-left: 250px;
+    margin-right: 250px; 
+    
+    
+  }
+
+  .column1 {
+    float: left;
+    width: 24%;
+    padding:1px;
+    
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .column2 {
+    float: left;
+    width: 50%;
+    
+    
+  }
+
+  .column3 {
+    float: left;
+    width: 50%;
+  
+    
+  }
+
+  .column4 {
+    float: left;
+    width: 50%;
+  
+    
+  }
+
+  .column5 {
+    float: center;
+    width: 100%;
+  
+    
+  }
+  
+  .card2 {
+   
+    padding: 16px;
+    text-align: left;
+    background-color: #c5c7ce;
+  }
+  
+  .card1 {
+   
+    padding: 16px;
+    
+    background-color: #21456c;
+  }
+
+  .card3 {
+   
+    padding: 16px;
+    text-align: right;
+    
+  }
+  
+  .card4 {
+   
+    padding: 16px;
+    text-align: left;
+    
+  }
+
+
+  h1.a {
+    line-height: normal;
+  }
+  
+  h1.b {
+    line-height: normal;
+  }
+
+  .tab { 
+    display:inline-block; 
+    margin-left: 40px; 
+}
+
+.nav{
+  
+  list-style:none;
+  margin:0;
+  padding:0;
+  text-align:center;
+}
+.nav li{
+  display:inline;
+}
+.nav a{
+  display:inline-block;
+  padding:15px;
+}
+
+h1.one {
+  border-style: solid;
+  border-width: 1px;
+  border: 1px solid white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 15px 15px;
+}
+
+h1.two {
+  
+  border-width: 1px;
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 15px 15px;
+  background-color: #25d2e4; 
+}
+.button2:hover{
+  background: #25d2e4;
+  color: black;
+}
+
+.d{
+  color:rgb(104, 101, 101);
+  font-size: 25px;
+}
